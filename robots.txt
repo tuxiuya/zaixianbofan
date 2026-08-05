@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuxiuya.github.io/zaixianbofan/sitemap.xml
